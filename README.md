@@ -17,7 +17,7 @@
 ## Prompt flow 入门教程⚡
 
 使用Prompt flow开发您的LLM应用程序可以从我们的 [docs](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow?view=azureml-api-2) 入手。然后参考以下入门教程，开始你的开发之旅：
-- [prompt flow 快速入门](https://github.com/zwang53/promptflow/tree/main/examples/tutorials/get-started/quickstart.ipynb)
+- [prompt flow 快速入门](https://github.com/zwang53/prompt-flow/blob/main/examples/tutorials/get-started/quickstart.ipynb)
 
 
 
